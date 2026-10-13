@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ConformalBand"
+abstract: "Distribution-free prediction intervals for aerospace regression with coverage measured under declared covariate shift — split, Mondrian and weighted conformal with exchangeability stated as the assumption it is, empirical coverage and interval width against nominal level in distribution and under three shifts of increasing severity plotted against the finite-sample bound, and the measured point at which weighted conformal breaks; parametric Gaussian residual interval as baseline."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/conformalband"
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - autonomy-assurance
